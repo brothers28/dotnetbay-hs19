@@ -1,4 +1,4 @@
-# dotnetbay - A .NET Auction Bootstrapper 
+# dotnetbay - A .NET Auction Bootstrapper - clone Benjamin Meyer
 A bootstrap solution to build your own basic auction portal.
 
 ## Goals
