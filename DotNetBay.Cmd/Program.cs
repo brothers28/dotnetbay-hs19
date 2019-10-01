@@ -16,6 +16,7 @@ namespace DotNetBay.Cmd
         public static void Main()
         {
             Console.WriteLine("DotNetBay Commandline");
+            // Hello
 
             AuctionRunner auctionRunner = null;
 
